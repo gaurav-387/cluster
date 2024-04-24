@@ -1,0 +1,219 @@
+{
+    "users": [
+        {
+            "uname": {
+                "gname": "22"
+            },
+            "pword": "Gaurav",
+            "id": "ab71ead1-f7e3-46dd-a02f-9fffc8dc9383"
+        },
+        {
+            "uname": "",
+            "pword": "lala"
+        },
+        {
+            "uname": "",
+            "pword": ""
+        },
+        {
+            "uname": "",
+            "pword": ""
+        },
+        {
+            "uname": "gaurav",
+            "pword": "lalala"
+        },
+        {
+            "uname": {
+                "gname": "22"
+            },
+            "usname": "gauravv",
+            "pword": "kashyap"
+        },
+        {
+            "uname": {
+                "gname": {
+                    "id": "bro"
+                }
+            },
+            "usname": "reg",
+            "pword": "kashyap"
+        },
+        {
+            "uname": "gauravc",
+            "pword": "dimple"
+        },
+        {
+            "uname": {
+                "uid": "gaurav",
+                "age": 22.0,
+                "eid": "gggg@gmail.com",
+                "mno": 123456789.0
+            },
+            "pword": "lalalala"
+        },
+        {
+            "uname": {
+                "uid": "bro",
+                "age": 22.0,
+                "eid": "bro@123",
+                "mno": 12345678899.99
+            },
+            "pword": "lalalala1"
+        },
+        {
+            "biodata": {
+                "uid": "qwe",
+                "eid": "qwqe",
+                "numeric data": {
+                    "age": 11.0,
+                    "mno": 12.0
+                }
+            },
+            "pword": "lalalala1"
+        },
+        {
+            "biodata": {
+                "uid": "gfjhfg",
+                "eid": "gggg@gmail.com",
+                "numeric data": {
+                    "age": 22.0,
+                    "mno": 0.0,
+                    "confenditial": {
+                        "pword": "ffff"
+                    }
+                }
+            }
+        },
+        {
+            "biodata": {
+                "uid": "gfjhfg",
+                "eid": "gggg@gmail.com",
+                "numeric data": {
+                    "age": 22.0,
+                    "mno": 0.0,
+                    "confenditial": {
+                        "pword": "ffff"
+                    }
+                }
+            }
+        },
+        {
+            "biodata": {
+                "uid": "gfjhfg",
+                "eid": "gggg@gmail.com",
+                "numeric data": {
+                    "age": 22.0,
+                    "mno": 0.0,
+                    "confenditial": {
+                        "pword": "ffff"
+                    }
+                }
+            }
+        },
+        {
+            "biodata": {
+                "uid": "gfjhfg",
+                "eid": "gggg@gmail.com",
+                "numeric data": {
+                    "age": 22.0,
+                    "mno": 0.0,
+                    "confenditial": {
+                        "pword": "ffff"
+                    }
+                }
+            }
+        },
+        {
+            "biodata": {
+                "uid": "gfjhfg",
+                "eid": "gggg@gmail.com",
+                "numeric data": {
+                    "age": 22.0,
+                    "mno": 0.0,
+                    "confenditial": {
+                        "pword": "ffff"
+                    }
+                }
+            }
+        },
+        {
+            "biodata": {
+                "uid": "gfjhfg",
+                "eid": "gggg@gmail.com",
+                "numeric data": {
+                    "age": 22.0,
+                    "mno": 0.0,
+                    "confenditial": {
+                        "pword": "yyyy"
+                    }
+                }
+            }
+        },
+        {
+            "biodata": {
+                "uid": "gfjhfg",
+                "eid": "gggg@gmail.com",
+                "numeric data": {
+                    "age": 22.0,
+                    "mno": 0.0,
+                    "confenditial": {
+                        "pword": "yyyy"
+                    }
+                }
+            }
+        },
+        {
+            "biodata": {
+                "uid": "gfjhfg",
+                "eid": "gggg@gmail.com",
+                "numeric data": {
+                    "age": 22.0,
+                    "mno": 0.0,
+                    "confenditial": {
+                        "pword": "yyyy"
+                    }
+                }
+            }
+        },
+        {
+            "biodata": {
+                "uid": "gfh",
+                "eid": "gauravkashyap387@gmail.com",
+                "numeric data": {
+                    "age": 0.0,
+                    "mno": 0.0,
+                    "confenditial": {
+                        "pword": "yyyy"
+                    }
+                }
+            }
+        },
+        {
+            "biodata": {
+                "uid": "gaurav",
+                "eid": "gggg@gmail.com",
+                "numeric data": {
+                    "age": 22.0,
+                    "mno": 0.0,
+                    "confenditial": {
+                        "pword": "lalalala"
+                    }
+                }
+            }
+        },
+        {
+            "biodata": {
+                "uid": "gaurav",
+                "eid": "gggg@gmail.com",
+                "numeric data": {
+                    "age": 22.0,
+                    "mno": 12345678900.01,
+                    "confenditial": {
+                        "pword": "lalalala"
+                    }
+                }
+            }
+        }
+    ]
+}
